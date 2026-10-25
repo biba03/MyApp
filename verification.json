@@ -1,0 +1,9 @@
+{
+  "all_cells_syntax_valid": true,
+  "new_scan_display_export_cells_executed_on_real_cache": true,
+  "empty_results_display_passed": true,
+  "method_results_byte_identical": true,
+  "matched_tickers": 145,
+  "database_sha256_unchanged": "5fb0669c68e1232fdc568571465060ce500a4130c4164052b0fbbe817f69ade9",
+  "original_cell_sources_preserved_except_backtest_print_syntax_fix": true
+}

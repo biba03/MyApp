@@ -1,0 +1,15 @@
+Ticker,Sector,Pattern,Score,RS,SectorRank,ExtATR50,Entry,Stop,Target,RR
+MPC,Energy,CupHandle,76.61,96,91,4.6,313.9,305.0,336.15,2.5
+PBF,Energy,CupHandle,75.07,98,91,6.39,73.0,69.16,82.57,2.5
+HPE,Technology,CupHandle,71.28,98,99,0.28,46.37,43.55,53.42,2.5
+NTAP,Technology,HighTightFlag,71.27,96,99,1.76,172.45,165.34,193.79,3.0
+ILMN,Healthcare,FlatBase,70.22,96,82,3.24,196.62,189.63,214.1,2.5
+AVTR,Healthcare,DarvasBox,69.38,91,82,6.13,13.91,13.28,15.18,2.0
+MET,Financial Services,DarvasBox,69.08,83,66,4.45,96.32,94.48,99.99,2.0
+ALL,Financial Services,BaseOnBase,68.55,88,66,4.4,263.46,256.81,280.09,2.5
+HST,Real Estate,DarvasBox,67.08,92,74,2.59,24.95,24.38,26.1,2.0
+NUE,Basic Materials,CupHandle,65.88,94,50,1.72,256.14,247.74,277.15,2.5
+SPG,Real Estate,BaseOnBase,65.74,83,74,2.93,229.98,225.61,240.89,2.5
+NEU,Basic Materials,DarvasBox,65.26,83,50,2.6,848.17,822.0,900.52,2.0
+GWW,Industrials,CupHandle,65.01,83,58,0.55,1346.11,1314.9,1424.14,2.5
+CSX,Industrials,BaseOnBase,64.91,85,58,1.64,49.98,48.79,52.96,2.5

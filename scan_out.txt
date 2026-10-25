@@ -1,0 +1,47 @@
+as-of 2026-07-30 | universe 913 tickers
+
+SETUPS PASSING ALL FILTERS: 156  (unique tickers: 65)
+
+TOP 30 BY SCORE:
+Ticker       Pattern  Score  Quality  Confidence  RS  SectorRank  IndustryRank  Liquidity  ExtATR50 Regime TrendTemplate   Stage  AccumDays  DistDays  Entry   Stop  Target  RR
+   MPC     CupHandle  76.61    72.75        76.6  96          91            98      100.0      4.60   None           8/8 Stage 2          6         3 313.90 305.00  336.15 2.5
+   PBF     CupHandle  75.07    71.48        68.5  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   82.57 2.5
+   VLO     CupHandle  74.81    66.75        76.6  96          91            98      100.0      3.65   None           8/8 Stage 2          6         3 309.10 298.17  336.40 2.5
+   PBF EpisodicPivot  74.80    71.48        67.0  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   82.57 2.5
+   PSX     CupHandle  74.36    63.50        82.0  93          91            98      100.0      4.14   None           8/8 Stage 2          7         5 210.18 204.13  225.30 2.5
+  DINO     CupHandle  74.20    68.87        73.0  97          91            98       85.0      5.01   None           8/8 Stage 2          7         3  91.68  88.44   99.77 2.5
+   PBF     Shoryuken  73.92    67.73        76.7  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   80.66 2.0
+   PBF           VCP  73.52    71.48        59.8  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   82.57 2.5
+   MPC   PocketPivot  72.52    69.00        68.5  96          91            98      100.0      4.60   None           8/8 Stage 2          6         3 313.90 305.00  331.70 2.0
+   PBF     DarvasBox  72.33    67.73        67.9  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   80.66 2.0
+   PBF   PocketPivot  71.63    67.73        64.0  98          91            98      100.0      6.39   None           8/8 Stage 2          9         3  73.00  69.16   80.66 2.0
+   MPC     DarvasBox  71.45    69.00        62.5  96          91            98      100.0      4.60   None           8/8 Stage 2          6         3 313.90 305.00  331.70 2.0
+   HPE     CupHandle  71.28    54.02        72.1  98          99            97      100.0      0.28   None           7/8 Stage 2          7         5  46.37  43.55   53.42 2.5
+  NTAP HighTightFlag  71.27    53.85        67.0  96          99            86       95.2      1.76   None           8/8 Stage 2          9         4 172.45 165.34  193.79 3.0
+  DINO   PocketPivot  70.76    65.12        68.5  97          91            98       85.0      5.01   None           8/8 Stage 2          7         3  91.68  88.44   98.15 2.0
+   VLO   PocketPivot  70.72    63.00        68.5  96          91            98      100.0      3.65   None           8/8 Stage 2          6         3 309.10 298.17  330.94 2.0
+  DINO     DarvasBox  70.65    65.12        67.9  97          91            98       85.0      5.01   None           8/8 Stage 2          7         3  91.68  88.44   98.15 2.0
+  ILMN      FlatBase  70.22    51.16        82.1  96          82            77      100.0      3.24   None           8/8 Stage 2          4         8 196.62 189.63  214.10 2.5
+  GRMN     DarvasBox  69.97    58.14        81.2  80          99            79      100.0      4.60   None           8/8 Stage 2          5         4 286.90 276.94  306.84 2.0
+   VLO     DarvasBox  69.65    63.00        62.5  96          91            98      100.0      3.65   None           8/8 Stage 2          6         3 309.10 298.17  330.94 2.0
+  DDOG     CupHandle  69.63    48.52        72.1  98          99            14      100.0      1.76   None           8/8 Stage 2          7         4 266.67 253.70  299.11 2.5
+  AVTR     DarvasBox  69.38    59.02        81.2  91          82            67       84.0      6.13   None           5/8 Stage 3         10         1  13.91  13.28   15.18 2.0
+   PSX   PocketPivot  69.30    59.75        68.5  93          91            98      100.0      4.14   None           8/8 Stage 2          7         5 210.18 204.13  222.27 2.0
+   PSX     DarvasBox  69.19    59.75        67.9  93          91            98      100.0      4.14   None           8/8 Stage 2          7         5 210.18 204.13  222.27 2.0
+   MET     DarvasBox  69.08    64.69        81.2  83          66            87      100.0      4.45   None           8/8 Stage 2          8         4  96.32  94.48   99.99 2.0
+  TECH     CupHandle  68.96    60.46        72.1  81          82            94      100.0     12.10   None           7/8 Stage 2          4         2  72.14  71.29   74.28 2.5
+   THC     DarvasBox  68.79    56.01        81.2  90          82            71       93.1      5.34   None           6/8 Stage 2          6         4 249.62 238.56  271.73 2.0
+   ALL    BaseOnBase  68.55    57.79        77.3  88          66            76      100.0      4.40   None           8/8 Stage 2          6         4 263.46 256.81  280.09 2.5
+  ILMN     CupHandle  68.42    51.16        72.1  96          82            77      100.0      3.24   None           8/8 Stage 2          4         8 196.62 189.63  214.10 2.5
+  BTSG     CupHandle  68.29    52.21        76.6  98          82            80       68.7      2.29   None           8/8 Stage 2          1         6  72.26  69.49   79.17 2.5
+
+ExtATR50 (overextension read-out) distribution:
+count    156.00
+mean       3.09
+std        2.28
+min        0.04
+25%        1.76
+50%        2.56
+75%        4.00
+max       12.10
+DONE_SCAN

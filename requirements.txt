@@ -1,0 +1,15 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+
+# Data download
+yfinance>=0.2.40
+requests>=2.31
+lxml>=5.0          # required by pandas.read_html for Wikipedia universe scraping
+tqdm>=4.66
+
+# Dashboard (optional - only needed to run dashboard.py)
+streamlit>=1.35
+
+# Tests (optional - only needed to run the tests/ suite)
+pytest>=8.0
